@@ -29,7 +29,11 @@ A Tetris-style falling block game built with [Godot 4](https://godotengine.org).
 | Restart | R | Back |
 | Fullscreen | F11 / Alt+Enter | — |
 
-## Running
+## Download
+
+A ready-to-play Windows build is available on the [Releases](https://github.com/mariodujic/Tetris/releases/latest) page — download `BlockDrop.exe` and run it, no install needed.
+
+## Running from source
 
 1. Install [Godot 4.7](https://godotengine.org/download) or newer.
 2. Clone this repository.
